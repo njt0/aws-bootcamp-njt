@@ -1,3 +1,4 @@
+![Screenshot (64)](https://user-images.githubusercontent.com/76596011/221205616-b5331210-cb63-4f4f-a8c8-d9b71329824c.png)
 
 #WEEK 1 Homewor
 
