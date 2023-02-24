@@ -1,5 +1,5 @@
 
-#WEEK 1 Homewor
+#WEEK 1 Homework
 
 Firstly, I watched live session of week-1. Followed all instructions and created both FRONTEND and BACKEND sides. Docker files built and run as instru
 cted. Successfully created dockerfiles , opened ports for 3000 and 4567(public).
