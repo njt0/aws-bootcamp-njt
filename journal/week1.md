@@ -1,4 +1,3 @@
-![Screenshot (64)](https://user-images.githubusercontent.com/76596011/221205616-b5331210-cb63-4f4f-a8c8-d9b71329824c.png)
 
 #WEEK 1 Homewor
 
@@ -8,3 +7,4 @@ Steps. Create dockerfile, install pip ,create open public ports for BACKEND and 
 Everything clear.
 ![Screenshot (62)](https://user-images.githubusercontent.com/76596011/221205206-d7f304ad-71fe-455b-a03d-84b4e1fc158a.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/76596011/221205290-b306fab3-0a8f-4ca7-8b36-50bc8a57509e.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/76596011/221205616-b5331210-cb63-4f4f-a8c8-d9b71329824c.png)
