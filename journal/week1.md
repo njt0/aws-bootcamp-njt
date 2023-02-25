@@ -6,6 +6,9 @@ cted. Successfully created dockerfiles , opened ports for 3000 and 4567(public).
 Steps. Create dockerfile, install pip ,create open public ports for BACKEND and FRONTEND sides. Compose Up docker-compose.yml .Check by opening url link.
 Everything clear.
 
+Notifcation API settings tried to do by myself but it was too complicated that is why I need some extra time to learn and try again. I made just copy and paste.
+DynamoDB and Postgre given code added to docker-compose.yml.
+
 #Commits 
 https://github.com/njt0/aws-bootcamp-cruddur-2023
 ...
