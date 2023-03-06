@@ -1,11 +1,11 @@
 #WEEK 2 Homework
 
+Report Will be uploaded
 
-!(https://user-images.githubusercontent.com/76596011/223248013-a799952d-59c0-4206-9989-3c75c9820554.png)
-!(https://user-images.githubusercontent.com/76596011/223248083-49784f09-d175-49ba-a86e-2491cb57cdcb.png)
-(https://user-images.githubusercontent.com/76596011/223248141-7c478d60-b851-4cd0-987c-d81c0b8632eb.png)
-(https://user-images.githubusercontent.com/76596011/223248232-667d3dc2-efe0-4ea4-b18a-64530b833e09.png)
-(https://user-images.githubusercontent.com/76596011/223248308-375b1008-44db-4a48-a503-92bbc137822c.png)
-(https://user-images.githubusercontent.com/76596011/223248378-95e4c577-1789-456a-a211-ec35f9aeac49.png)
-(https://user-images.githubusercontent.com/76596011/223248439-6c298323-79bd-4d1e-a0aa-fa93b4c4fdaa.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/76596011/223251385-310d4d64-3bf0-4fa0-a706-1b3f200ecdf7.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/76596011/223251406-52491f88-0e17-492a-ae1b-4775a9dbd330.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/76596011/223251418-cd442057-26da-4189-aa25-f58f02cc45cc.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/76596011/223251438-e7c4bbc2-9c74-40b3-b464-c88c6526a6a3.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/76596011/223251485-2d5c745f-5150-480e-8aa2-b0900fafa36b.png)
+![Uploading Screenshot (70).png…]()
 
