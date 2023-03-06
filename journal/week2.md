@@ -7,5 +7,7 @@ Report Will be uploaded
 ![Screenshot (67)](https://user-images.githubusercontent.com/76596011/223251418-cd442057-26da-4189-aa25-f58f02cc45cc.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/76596011/223251438-e7c4bbc2-9c74-40b3-b464-c88c6526a6a3.png)
 ![Screenshot (69)](https://user-images.githubusercontent.com/76596011/223251485-2d5c745f-5150-480e-8aa2-b0900fafa36b.png)
-![Uploading Screenshot (70).png…]()
+![Screenshot (70)](https://user-images.githubusercontent.com/76596011/223252198-8a0e7ffc-7262-4fbf-8a22-e8f7b4aacfd1.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/76596011/223252218-e1850104-364b-4c0e-8776-51c92e90ad17.png)
+
 
